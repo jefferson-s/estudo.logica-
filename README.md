@@ -1,2 +1,22 @@
-# estudo.logica-
-Estudo de lógica de programação com Portugol - DIO
+# Estudo de lógica de programação
+### Estudo de lógica de programação com Portugol - DIO
+
+
+
+####  
+
+* Matrizes e vetores 
+
+* pilha
+
+* fila 
+
+* árvore 
+
+* lista
+
+  
+
+
+
+Digital Inovation one
